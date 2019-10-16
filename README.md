@@ -1,10 +1,13 @@
 # Women in Open Source
 
 Description
+___________________
 
 ## Code of Conduct
 
 Please refer to the Hacktoberfest FFM Code of Conduct, which can be found [here](https://hacktoberffm.de/conduct).
+
+_______________
 
 ## Template
 
@@ -17,6 +20,7 @@ This template should be used when adding your name to the list. Please copy-past
   * Company
   * Location: (city, country)
 
+__________
 
 # List
 
