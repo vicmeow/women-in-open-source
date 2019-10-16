@@ -29,6 +29,6 @@ Example:
   * [@vicbergquist](https://twitter.com/vicbergquist)
   * [Github](https://github.com/vicbergquist)
   * Topics: Vue.js, CSS, Diversity, Communities
-  * [sanity](https://www.sanity.io)
+  * [Sanity](https://www.sanity.io)
   * Location: Oslo, Norway
   
