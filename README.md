@@ -14,7 +14,7 @@ _______________
 This template should be used when adding your name to the list. Please copy-paste the template and then change the information accordingly.
 
 * #### Name
-  * [Twitter handle](https://www.twitter.com/)
+  * [Twitter](https://www.twitter.com/)
   * Personal website/ portfolio page/ Github
   * Topics/ projects:
   * Company
