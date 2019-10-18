@@ -12,6 +12,10 @@ nav {
   align-items: center;
 }
 
+li {
+  list-style: none;
+}
+
 .nav-item {
   display: block;
   margin-right: 32px;
@@ -91,6 +95,10 @@ p {
   font-size: 16px;
   letter-spacing: 1px;
   margin: 24px 0;
+}
+
+.button:hover {
+  background: #840fa5;
 }
 
 /* The "List" Page */
