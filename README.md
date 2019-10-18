@@ -1,7 +1,5 @@
 # Women in Open Source
 
-Description
-
 New for this year's event is a dedicated space to share experiences and discover Women in Tech and Open Source. Contribute to this repo by submitting a PR with an addition to our list of female Open Source contributers. You can add someone you know personally, (maybe even someone you met at Hacktobefest!) or someone you follow online.
 
 ---
@@ -12,9 +10,9 @@ Please refer to the Hacktoberfest FFM Code of Conduct, which can be found [here]
 
 ---
 
-## List
+## Adding to the List
 
-This template should be used when adding a name to the list. Please copy-paste the template and then change the information accordingly in the `main.js` file.
+The template below should be used when adding a name to the list. Please copy-paste the template and then change the information accordingly. Add it to the 'list' array in the `main.js` file.
 
 - #### Information Needed:
   - Name
@@ -24,10 +22,11 @@ This template should be used when adding a name to the list. Please copy-paste t
   - Topics (Claim to Fame, interest areas, areas of expertise, projects)
   - Company (url, company name or job title)
   - Location: (city, country)
+  - Additional Text: Add a brief sentence about what they are doing and why they are inspiring!
 
 ---
 
-# Template
+## Template
 
 Example:
 
