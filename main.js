@@ -8,7 +8,18 @@ const list = [
     company: "https://www.sanity.io",
     location: "Oslo, Norway",
     additionalText:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu nisl nibh. Aenean vel sapien scelerisque, dictum mi id, porta nunc."
+      "Organizer of various meetup groups in Frankfurt - CSS Frankfurt, Vue.js Frankfurt & Vue Vixens. Also the lead organizer of Hacktoberfest!"
+  },
+  {
+    name: "Natalie Dodd",
+    avatarUrl: "https://avatars2.githubusercontent.com/u/20487530?s=400&v=4",
+    twitterUrl: "https://twitter.com/nattydodd",
+    githubUrl: "https://github.com/nattydodd",
+    topics: "React, Ember, CSS, WTM Frankfurt",
+    company: "https://www.publicissapient.de",
+    location: "Toronto, Canada",
+    additionalText:
+      "Co-organizer of Women Techmakers Frankurt & 'Code Girl' (coding program for girls at Frankfurt International School)."
   },
   {
     name: "Limor 'Ladyada' Fried",
