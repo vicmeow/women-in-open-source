@@ -2,6 +2,7 @@ body {
   background: #031e5a;
   max-width: 1400px;
   margin: auto;
+  background-image: url("images/background.png");
 }
 
 nav {
@@ -14,6 +15,11 @@ nav {
 
 li {
   list-style: none;
+}
+
+.list-item {
+  background: #152347ad;
+  padding: 24px 48px;
 }
 
 .nav-item {
@@ -132,5 +138,10 @@ p {
 }
 
 .contribute {
-  margin: 0 0 60px;
+  height: auto;
+  margin: auto 32px;
+}
+
+.list-intro {
+  display: flex;
 }
