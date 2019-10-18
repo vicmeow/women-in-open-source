@@ -97,6 +97,10 @@ p {
   margin: 24px 0;
 }
 
+.button:hover {
+  background: #840fa5;
+}
+
 /* The "List" Page */
 
 .list {

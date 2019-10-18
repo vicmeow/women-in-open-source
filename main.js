@@ -88,7 +88,7 @@ const list = [
         </div>
       </div>
       <p>
-        >>${item.additionalText}
+        >> ${item.additionalText}
       </p>
 
       <div class="divider"></div>
