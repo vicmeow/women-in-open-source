@@ -12,6 +12,10 @@ nav {
   align-items: center;
 }
 
+li {
+  list-style: none;
+}
+
 .nav-item {
   display: block;
   margin-right: 32px;
