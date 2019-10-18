@@ -53,6 +53,13 @@ const list = [
     location: "Colorado, USA",
     additionalText:
       "Founder and CEO of Lunchbox Electronics, a company that creates innovative new products with Imagination and the passion for open source hardware. She conducted a successful Kickstarter called Build Upons for light up LEGO-compatible bricks."
+  },
+  {
+    name: "Suz Hinton",
+    avatarUrl: "https://miro.medium.com/max/3150/1*FydmiVPSjGgJr9_AtRN_Ig.jpeg",
+    twitterUrl: "https://twitter.com/noopkat",
+    githubUrl: "https://github.com/noopkat",
+    topics: "Open Source, IOT, Javascript and Barry the Sloth",
   }
 ];
 
